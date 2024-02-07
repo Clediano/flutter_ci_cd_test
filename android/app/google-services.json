@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424189474421",
+    "project_id": "bitrise-flutter-ci-cd-test",
+    "storage_bucket": "bitrise-flutter-ci-cd-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424189474421:android:acbc08d3a65b73aa1bea3c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ci_cd_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqF5sDPdg67EqgZ0uZ529hqgO1mqGTJRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
