@@ -1,0 +1,13 @@
+appId: com.example.flutter_ci_cd_test
+---
+- launchApp:
+    appId: "com.example.flutter_ci_cd_test"
+    clearState: true
+- tapOn:
+    text: "fabAddIcon"
+    repeat: 3
+    delay: 500
+- assertVisible:
+    text: "You have pushed the button this many times:"
+- assertVisible:
+    text: "3"
